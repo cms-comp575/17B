@@ -1,1 +1,0 @@
-Preview: The Theme Editor preview requires at least Android M Platform SDK
